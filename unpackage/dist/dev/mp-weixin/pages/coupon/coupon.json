@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "领取优惠",
+  "usingComponents": {
+    "home-page": "/components/homepage/homepage"
+  }
+}

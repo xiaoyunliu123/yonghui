@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "永徽商城",
+  "usingComponents": {
+    "home-page": "/components/homepage/homepage"
+  }
+}
