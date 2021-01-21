@@ -11,7 +11,28 @@
 				<text>已使用</text>
 			</view>
 		</view>
-		<view class="cont2" style="background-image: url(../../static/WechatIMG423.png);width: 300upx;height: 254upx;">
+		<view class="cont2" style="display: flex;justify-content: space-around;">
+			<view class="" style="width: 50%;height: 250upx;">
+				<view style="margin-top: 60upx;font-size: 40px;font-weight: 700;color: #FFC60B;">
+					<text>￥</text>
+					<text>500</text>
+				</view>
+				<view class="" style="margin-top: 48upx;">
+					<text>充值1000元赠送500元</text>
+				</view>
+				
+			</view>
+			<view class="" style="width: 40%;">
+				<view class="">
+					<text>使用日期</text>
+				</view>
+				<view class="">
+					<text>2020年10月1日</text>
+				</view>
+				<view class="">
+					<text>2020年10月1日</text>
+				</view>
+			</view>
 			
 		</view>
 		
@@ -43,7 +64,6 @@
 <style>
 	.container{
 		width: 90%;
-		border: #0000FF 1px solid;
 		margin: 15upx auto;
 		
 	}
@@ -77,5 +97,12 @@
 		border-left: #E4E4E4 1px solid;
 		border-right: #E4E4E4 1px solid;
 		font-size: 36upx;
+	}
+	.cont2{
+		background-image: url(../../static/WechatIMG423.png);
+		width: 100%;
+		height: 334upx;
+		background-size:100% 100%;
+		margin-top: 20upx;
 	}
 </style>
